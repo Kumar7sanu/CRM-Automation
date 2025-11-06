@@ -1,0 +1,4 @@
+vendor_id,company_name,contact_name,email,phone,zipcode,website,social_text
+V001,Acme Events,John Doe,john.doe@example.com,+1-202-555-0143,10001,,Follow us at instagram.com/acme_events or visit acmeevents.co
+V002,Blue Weddings,Jane Smith,jane.smith[at]example.com,9876543210,560001,,Contact: facebook.com/blueweddings
+V003,Green Caterers,Bob Lee,bob.lee@example.co.uk,+44 20 7946 0958,SW1A 1AA,,Website: greencaterers.uk
